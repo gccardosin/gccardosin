@@ -1,7 +1,7 @@
 ### Hi there, I'm Guilherme Cardoso 👋
 
-- 🔭 I’m currently working on Active Manager
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on DataBase Administrator
+- 🌱 I’m currently learning GO Lang
 - 📫 How to reach me: guiguilacerdacardoso2003@hotmail.com
 
  <div>
