@@ -1,7 +1,6 @@
 ### Hi there, I'm Guilherme Cardoso 👋
 
 - 🔭 I’m currently working on DataBase Administrator
-- 🌱 I’m currently learning GO Lang
 - 📫 How to reach me: guiguilacerdacardoso2003@hotmail.com
 
 
@@ -24,6 +23,18 @@
   <a href="https://www.linkedin.com/in/guilherme-cardoso2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
    <p align="center"> 
+
+ ##
+
+ <div>
+  <a href="https://github.com/IgorPRibeiro">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gccardosin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gccardosin&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+  
+  ##
+  
 
  ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
